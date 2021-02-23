@@ -1,7 +1,3 @@
-import pandas as pd
-import numpy as np
-
-from WindPy import w
 import abc
 
 
